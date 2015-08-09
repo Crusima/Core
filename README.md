@@ -43,6 +43,12 @@ The core plugin also provides a way for 3rd parties to develop modules. For more
 
 Currently the plugin (and modules) are only tested on Chrome (unless noted otherwise). Because of the way the plugin works it should also work in both Opera and FireFox. If you are running the plugin (and modules) on one of these browsers please let me know whether it works or not, so that I can either fix it or add the browser to the list of tested browsers.
 
+## Contributing
+
+If you want to help development of the plugin or one of the modules feel free to submit a PR against the specific repository.
+
+If you have found a bug, want to request a feature or have a question feel free to open an issue.
+
 [chromemonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 [firefoxmonkey]: https://addons.mozilla.org/nl/firefox/addon/greasemonkey/
 [operamonkey]: https://addons.opera.com/nl/extensions/details/tampermonkey-beta/?display=en
