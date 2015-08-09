@@ -5,7 +5,7 @@ This repository contains alls the core files for Crusima's Tribal Wars 2 plugin.
 ## Installation
 
 1. Install the tampermonkey plugin for [Chrome][chromemonkey], [Firefox][firefoxmonkey] or [Opera][operamonkey]
-2. Add the [minified core script][mincore] to tamper/greasemonkey
+2. Add the [main plugin file][maincore] to tamper/greasemonkey
 
 ## Usage
 
@@ -46,6 +46,6 @@ Currently the plugin (and modules) are only tested on Chrome (unless noted other
 [chromemonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 [firefoxmonkey]: https://addons.mozilla.org/nl/firefox/addon/greasemonkey/
 [operamonkey]: https://addons.opera.com/nl/extensions/details/tampermonkey-beta/?display=en
-[mincore]: http://google.com
+[maincore]: https://github.com/Crusima/Core/blob/master/Plugin.js
 [mainpage]: https://github.com/Crusima
 [example]: https://github.com/Crusima/ExamplePlugin
