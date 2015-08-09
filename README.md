@@ -47,5 +47,5 @@ Currently the plugin (and modules) are only tested on Chrome (unless noted other
 [firefoxmonkey]: https://addons.mozilla.org/nl/firefox/addon/greasemonkey/
 [operamonkey]: https://addons.opera.com/nl/extensions/details/tampermonkey-beta/?display=en
 [maincore]: https://github.com/Crusima/Core/blob/master/Plugin.js
-[mainpage]: https://github.com/Crusima
+[mainpage]: https://github.com/Crusima?tab=repositories
 [example]: https://github.com/Crusima/ExamplePlugin
