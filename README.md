@@ -54,4 +54,4 @@ If you have found a bug, want to request a feature or have a question feel free 
 [operamonkey]: https://addons.opera.com/nl/extensions/details/tampermonkey-beta/?display=en
 [maincore]: https://github.com/Crusima/Core/blob/master/Plugin.js
 [mainpage]: https://github.com/Crusima?tab=repositories
-[example]: https://github.com/Crusima/ExamplePlugin
+[example]: https://github.com/Crusima/Example.Module
